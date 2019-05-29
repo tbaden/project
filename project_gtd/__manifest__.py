@@ -11,7 +11,10 @@
     'summary': 'Personal Tasks, Contexts, Timeboxes',
     'author': "Odoo SA, Odoo Community Association (OCA), ABF OSIELL",
     'license': 'AGPL-3',
-    'depends': ['project'],
+    'depends': [
+        'project',
+        'website_sale'
+    ],
     'data': [
         'project_gtd_data.xml',
         'project_gtd_view.xml',
