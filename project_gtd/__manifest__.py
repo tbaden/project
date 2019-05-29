@@ -13,7 +13,8 @@
     'license': 'AGPL-3',
     'depends': [
         'project',
-        'website_sale'
+        'website_sale',
+        'website'
     ],
     'data': [
         'project_gtd_data.xml',
