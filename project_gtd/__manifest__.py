@@ -14,7 +14,8 @@
     'depends': [
         'project',
         'website_sale',
-        'website'
+        'website',
+        'website_crm'
     ],
     'data': [
         'project_gtd_data.xml',
