@@ -19,7 +19,8 @@
         'website_form',
         'website_forum',
         'web',
-        'website_blog'
+        'website_blog',
+        'website_form_recaptcha'
     ],
     'data': [
         'project_gtd_data.xml',
