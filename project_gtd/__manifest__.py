@@ -20,7 +20,8 @@
         'website_forum',
         'web',
         'website_blog',
-        'website_form_recaptcha'
+        'website_form_recaptcha',
+        'website_legal_page'
     ],
     'data': [
         'project_gtd_data.xml',
