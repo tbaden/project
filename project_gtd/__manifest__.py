@@ -18,7 +18,8 @@
         'website_crm',
         'website_form',
         'website_forum',
-        'web'
+        'web',
+        'website_blog'
     ],
     'data': [
         'project_gtd_data.xml',
