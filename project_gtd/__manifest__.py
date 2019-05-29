@@ -15,7 +15,8 @@
         'project',
         'website_sale',
         'website',
-        'website_crm'
+        'website_crm',
+        'website_form'
     ],
     'data': [
         'project_gtd_data.xml',
